@@ -107,7 +107,7 @@ walmart-retail-sales-dashboard/
 
 ## 📸 Demo
 
-
+![Dashboard Demo](images/demo.gif)
 
 ---
 
