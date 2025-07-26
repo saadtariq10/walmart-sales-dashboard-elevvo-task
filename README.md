@@ -107,7 +107,8 @@ walmart-retail-sales-dashboard/
 
 ## 📸 Demo
 
-![Dashboard Demo](images/demo.gif)
+![Dashboard Demo](https://github.com/saadtariq10/walmart-sales-dashboard-elevvo-task/raw/main/demo.gif)
+
 
 ---
 
